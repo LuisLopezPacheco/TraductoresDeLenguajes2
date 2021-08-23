@@ -37,6 +37,7 @@ void Lexico::Type()
 void Lexico::analyze()
 {
 	state = 0;
+	index = 0;
 	next = true;
 	result = "";
 	
@@ -88,7 +89,7 @@ void Lexico::analyze()
 		else {
 			cout << "Se  obtuvo: " << result << " ";
 			cout << chainResult() << endl;
-			cout << c << ": Invalido, interrumpio la secuecia";
+			cout << c << ": Invalido, interrumpio la secuecia" << endl;
 			result += c;
 			state =-1;
 		}
@@ -124,7 +125,7 @@ bool Lexico::isNum(const char& c)
 
 bool Lexico::isLyrics(const char& c)
 {
-	return isalpha(c) || c == 'ñ';
+	return isalpha(c) || c == 'Ã±';
 }
 
 bool Lexico::isPoint(const char& c)
@@ -161,33 +162,9 @@ string Lexico::chainResult()
 
 void Lexico::behind()
 {
-
 	cout << "Se  obtuvo: " << result << " ";
 	cout << chainResult() << endl;
-	if (state == 1) {
-	
-	}
-	if (state == 2) {
-		if (isdigit(c)) {
-			cout << c << ": Interrumpio la secuecia, vuelve al estado inicial__";
-		}
-		
-	}
-	else if (state == 3) {
-		if (isalpha(c)) {
-			
-		}
-	}
-	else if (state == 4) {
-		if (isalpha(c)) {
-			
-		}
-		else if (c == '.') {
-			state = -1;
-		}
 
-		
-	}
 	result = "";
 	cout << c << ": Interrumpio la secuecia, vuelve al estado inicial" << endl;
 	state = 0;
