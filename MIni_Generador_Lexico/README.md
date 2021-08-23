@@ -1,1 +1,1 @@
-cccv
+Mini Generador Léxico
