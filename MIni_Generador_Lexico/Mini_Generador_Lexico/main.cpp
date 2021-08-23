@@ -3,20 +3,24 @@
 
 int main() {
 	
-	setlocale(LC_ALL, "spanish"); // Cambiar locale - Suficiente para m·quinas Linux
-	SetConsoleCP(1252); // Cambiar STDIN -  Para m·quinas Windows
-	SetConsoleOutputCP(1252); // Cambiar STDOUT - Para m·quinas Windows
+	setlocale(LC_ALL, "spanish"); // Cambiar locale - Suficiente para m√°quinas Linux
+	SetConsoleCP(1252); // Cambiar STDIN -  Para m√°quinas Windows
+	SetConsoleOutputCP(1252); // Cambiar STDOUT - Para m√°quinas Windows
 
-	string chain; 
+	string chain= " ";
 	Lexico myLexico;
-	
-	cout << "Ingrese Letras o Numeros enteros o reales" << endl;
-	
-	getline(cin, chain);
-	
-	cout << chain << endl;
-	myLexico.setMyChain(chain);
-	myLexico.analyze();
-
+	while (chain != "\0") {
+		system("cls");
+		cout << "Oprime solo Enter para salir." << endl;
+		cout << "Ingrese Letras o Numeros enteros o reales:" << endl;
+		fflush(stdin);
+		getline(cin, chain);
+		if (chain != "\0") {
+			cout << chain << endl;
+			myLexico.setMyChain(chain);
+			myLexico.analyze();
+		}
+		system("pause");
+	}
 
 }
