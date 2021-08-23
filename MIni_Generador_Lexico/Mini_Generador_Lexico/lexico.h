@@ -29,26 +29,21 @@ private:
 		static const int Invalid = -1;
 	};
 
-	int state, size,index = 0;
+	int state, size,index;
 	float number;
 	string myChain, result;
 	char c;
-	bool next;
+	bool next, final;
 	
-
 public:
-
 	Lexico();
 
 	void setMyChain(const string& cadena);
 
-
 	void Type();
 	void analyze();
-
-	
 	char nextSymbol();
-
+	
 	bool isSpace(const char& c) ;
 	bool isNum(const char& c);
 	bool isLyrics(const char& c);
