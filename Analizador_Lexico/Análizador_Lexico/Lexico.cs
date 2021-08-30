@@ -188,7 +188,7 @@ namespace Análizador_Lexico
                             }
                             else if (isSpace(c))
                             {
-                                result += '0';
+                                
                                 addToken(Token.Type.q3);
                             }
                             else
