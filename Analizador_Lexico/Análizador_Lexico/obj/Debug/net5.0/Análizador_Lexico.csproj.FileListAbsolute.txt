@@ -1,0 +1,16 @@
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\bin\Debug\net5.0\Análizador_Lexico.exe
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\bin\Debug\net5.0\Análizador_Lexico.deps.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\bin\Debug\net5.0\Análizador_Lexico.runtimeconfig.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\bin\Debug\net5.0\Análizador_Lexico.runtimeconfig.dev.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\bin\Debug\net5.0\Análizador_Lexico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\bin\Debug\net5.0\ref\Análizador_Lexico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\bin\Debug\net5.0\Análizador_Lexico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.csproj.AssemblyReference.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.AssemblyInfoInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.AssemblyInfo.cs
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.csproj.CoreCompileInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\ref\Análizador_Lexico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Análizador_Lexico\obj\Debug\net5.0\Análizador_Lexico.genruntimeconfig.cache

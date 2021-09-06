@@ -1,0 +1,16 @@
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\bin\Debug\net5.0\Mini_analizador_sintáctico.exe
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\bin\Debug\net5.0\Mini_analizador_sintáctico.deps.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\bin\Debug\net5.0\Mini_analizador_sintáctico.runtimeconfig.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\bin\Debug\net5.0\Mini_analizador_sintáctico.runtimeconfig.dev.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\bin\Debug\net5.0\Mini_analizador_sintáctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\bin\Debug\net5.0\ref\Mini_analizador_sintáctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\bin\Debug\net5.0\Mini_analizador_sintáctico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.AssemblyInfoInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.AssemblyInfo.cs
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.csproj.CoreCompileInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\ref\Mini_analizador_sintáctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.genruntimeconfig.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Minii_analizador_sintáctico\obj\Debug\net5.0\Mini_analizador_sintáctico.csproj.AssemblyReference.cache
