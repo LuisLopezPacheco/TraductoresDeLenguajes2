@@ -7,7 +7,8 @@ anteriormente solo se apilaban números entero, y ahora es posible apilar objeto
 Implementación
 
 Siguiendo el algoritmo, lo que realice fue cambiar la pila de enteros por una de objetos, al momento de apilar primero se ingresa el token para poder ser visualizado y después su identificador con base a la tabla (gramática), también con base a esto mismo implemente 2 métodos nuevos:
-ShowPop: permite ver el contenido en la pila. Esto es posible utilizando una pila auxiliar con el mismo contenido de la pila de objetos principal, y se realiza pop y se muestra ese token junto a su identificador.
+
+ShowStack: permite ver el contenido en la pila. Esto es posible utilizando una pila auxiliar con el mismo contenido de la pila de objetos principal, y se realiza pop y se muestra ese token junto a su identificador.
 
 ShowPop: cuando hay una reducción se tenia que multiplicar por 2 para hacer 6 o 2 pop (eliminaciones) dependiendo de la regla que se produjera, ahora con este método ya no es necesario tener que multiplicar, ya que este método se encarga de hacer siempre 2 eliminaciones, lo que equivale a la eliminación de un token y su identificado.
 También creé las clases nodo y NoTerminal, que serán utilizadas para la siguiente actividad al crear el árbol que funcionará por medio de lo que produce cada regla de la gramática.
