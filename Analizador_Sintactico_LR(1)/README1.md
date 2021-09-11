@@ -4,7 +4,7 @@ Para la creación de este programa reutilice el código generado en la actividad
 anteriormente solo se apilaban números entero, y ahora es posible apilar objetos o también números enteros.
 
 
-Implementación
+Implementación:
 
 Siguiendo el algoritmo, lo que realice fue cambiar la pila de enteros por una de objetos, al momento de apilar primero se ingresa el token para poder ser visualizado y después su identificador con base a la tabla (gramática), también con base a esto mismo implemente 2 métodos nuevos:
 
