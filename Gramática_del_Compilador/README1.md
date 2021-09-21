@@ -1,7 +1,7 @@
 Introducción.
 
 Para la creación de este programa reutilice el código generado en la actividad anterior, pero ahora realice bastantes cambios y añadí más métodos y objetos para lograr 
-que funcionará este analizado sintáctico, además de hacer la creación del árbol.
+que funcionará este analizador sintáctico, además de hacer la creación del árbol.
 
 Implementación.
 
