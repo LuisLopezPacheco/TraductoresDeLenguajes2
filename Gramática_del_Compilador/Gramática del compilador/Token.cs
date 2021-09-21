@@ -28,7 +28,6 @@
 			q22, //,
 			q23, //tipo de dato
 			q24  // Error
-
 		}
 
 		private Type state;
