@@ -1,0 +1,16 @@
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.csproj.AssemblyReference.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.AssemblyInfoInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.AssemblyInfo.cs
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.csproj.CoreCompileInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\bin\Debug\net5.0\Gramática del compilador.exe
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\bin\Debug\net5.0\Gramática del compilador.deps.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\bin\Debug\net5.0\Gramática del compilador.runtimeconfig.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\bin\Debug\net5.0\Gramática del compilador.runtimeconfig.dev.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\bin\Debug\net5.0\Gramática del compilador.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\bin\Debug\net5.0\ref\Gramática del compilador.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\bin\Debug\net5.0\Gramática del compilador.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\ref\Gramática del compilador.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Gramática del compilador\obj\Debug\net5.0\Gramática del compilador.genruntimeconfig.cache
