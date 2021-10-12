@@ -1,0 +1,16 @@
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.csproj.AssemblyReference.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.AssemblyInfoInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.AssemblyInfo.cs
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.csproj.CoreCompileInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\bin\Debug\net5.0\Arbol_Sintanctico.exe
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\bin\Debug\net5.0\Arbol_Sintanctico.deps.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\bin\Debug\net5.0\Arbol_Sintanctico.runtimeconfig.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\bin\Debug\net5.0\Arbol_Sintanctico.runtimeconfig.dev.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\bin\Debug\net5.0\Arbol_Sintanctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\bin\Debug\net5.0\ref\Arbol_Sintanctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\bin\Debug\net5.0\Arbol_Sintanctico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\ref\Arbol_Sintanctico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Arbol_Sintanctico\obj\Debug\net5.0\Arbol_Sintanctico.genruntimeconfig.cache
