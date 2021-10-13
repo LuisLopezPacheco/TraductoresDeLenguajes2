@@ -1,0 +1,16 @@
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\bin\Debug\net5.0\Analizador_Semantico.exe
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\bin\Debug\net5.0\Analizador_Semantico.deps.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\bin\Debug\net5.0\Analizador_Semantico.runtimeconfig.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\bin\Debug\net5.0\Analizador_Semantico.runtimeconfig.dev.json
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\bin\Debug\net5.0\Analizador_Semantico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\bin\Debug\net5.0\ref\Analizador_Semantico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\bin\Debug\net5.0\Analizador_Semantico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.csproj.AssemblyReference.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.AssemblyInfoInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.AssemblyInfo.cs
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.csproj.CoreCompileInputs.cache
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\ref\Analizador_Semantico.dll
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.pdb
+D:\Carpetas del sistema\Escritorio\Sem. Traductores 2\Actividades\Analizador_Semantico\obj\Debug\net5.0\Analizador_Semantico.genruntimeconfig.cache
