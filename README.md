@@ -3,10 +3,17 @@
 
 # Actividades:
 Mini analizador Léxico.
+
 Analizador Léxico.
+
 Mini analizador Sintáctico.
+
 Árbol Sintáctico.
+
 Analizador Sintáctico (Implementación usando Objetos)
+
 Gramática del Compilador.
+
 Analizador Semantico.
+
 Compilador
