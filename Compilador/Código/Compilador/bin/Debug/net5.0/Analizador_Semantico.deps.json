@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Analizador_Semantico/1.0.0": {
+        "runtime": {
+          "Analizador_Semantico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analizador_Semantico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
