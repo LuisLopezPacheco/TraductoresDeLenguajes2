@@ -1,0 +1,16 @@
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\bin\Debug\net5.0\Compilador.exe
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\bin\Debug\net5.0\Compilador.deps.json
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\bin\Debug\net5.0\Compilador.runtimeconfig.json
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\bin\Debug\net5.0\Compilador.runtimeconfig.dev.json
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\bin\Debug\net5.0\Compilador.dll
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\bin\Debug\net5.0\ref\Compilador.dll
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\bin\Debug\net5.0\Compilador.pdb
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.csproj.AssemblyReference.cache
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.AssemblyInfoInputs.cache
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.AssemblyInfo.cs
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.csproj.CoreCompileInputs.cache
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.dll
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\ref\Compilador.dll
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.pdb
+D:\Carpetas del sistema\Escritorio\TraductoresDeLenguajes2-Compilador\TraductoresDeLenguajes2-Compilador\Semantico\Analizador_Semantico\obj\Debug\net5.0\Compilador.genruntimeconfig.cache
